@@ -8,7 +8,7 @@
 - Spring Boot
 - Angular
 
--📫 How to reach me: tijana.njenjicc@gmail.com
+📫 How to reach me: tijana.njenjicc@gmail.com
 <!--
 **tnjenjicc/tnjenjicc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
