@@ -1,5 +1,14 @@
-## Hi there 👋
+## 👋 Hi there, I'm Tijana
 
+🎓 Final year student at the Faculty of Electrical Engineering, Banja Luka  
+💻 Interested in web and backend development
+
+🌱 Currently learning:
+- JavaScript, TypeScript
+- Spring Boot
+- Angular
+
+-📫 How to reach me: tijana.njenjicc@gmail.com
 <!--
 **tnjenjicc/tnjenjicc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
